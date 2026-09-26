@@ -1,16 +1,17 @@
 # Comparative Analysis of Global Cloud Leaders: Infrastructure Security & Governance Frameworks
-**Postgraduate Research Project | Ravensbourne University London**  
+**Postgraduate Research Dissertation | Ravensbourne University London**  
 *Awarded Grade: 82/100 (Distinction)*
 
-### 📋 Executive Summary
-This empirical study executes a complex qualitative and quantitative comparative evaluation of the leading hyperscale environments which includes Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), and Alibaba Cloud. The core research addresses structural gaps in cross-border data transfer flows, multi-jurisdictional compliance variances, and data sovereignty metrics within Europe (EMEA), APAC, and North American regions.
+## 📋 Project Overview
+This dissertation presents a comprehensive, qualitative comparative analysis of the four major global cloud service providers: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), and Alibaba Cloud. The core focus of this research was to critically evaluate how these cloud giants manage infrastructure security, cross-border data sovereignty challenges, and regional compliance variances across the EMEA, APAC, and North American markets.
 
-### 🛠️ Methodological Approach
-- **Taxonomy Foundations:** Operationalized the foundational National Institute of Standards and Technology (NIST) cloud taxonomy, cross-referencing IaaS, PaaS, and SaaS delivery matrices.
-- **Analytical Architecture:** Deployed dual-tier comparative models based on Lisa McKenna’s multi-societal analytical framework and R G Bolbakov’s quantitative interval metrics.
-- **Risk Profiles Evaluated:** Structured risk assessment parameters using unified criteria from NIST SP 800-30 and ISO/IEC 27005 profiles to define shift parameters within shared responsibility boundaries.
+## 🔬 Core Areas of Investigation
+- **Cloud Delivery Model Taxonomies:** Explored and systematically mapped the architectural boundaries of Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS) environments across all four cloud vendors.
+- **Regional Compliance & Data Sovereignty:** Investigated how cross-border data transfer regulations affect global enterprise operations, analyzing the specific governance structures each provider utilizes to maintain data integrity.
+- **Market Dominance & Infrastructure Distribution:** Mapped regional deployment footprints to identify market imbalances—such as Microsoft Azure's prominent adoption in European enterprise compliance structures versus Alibaba Cloud's strategic density across APAC infrastructure hubs.
 
-### 🔍 Core Investigative Findings
-1. **Regional Governance Discrepancies:** Mapped regional deployment anomalies indicating clear infrastructure dominance variables—notably Azure's structural optimization in EMEA compliance (43% concentration) vs. Alibaba Cloud's cost-efficient regional parameters in APAC (88% concentration).
-2. **Technical Anomaly Tracking:** Standardized technical mapping across virtual compute engines (EC2, Azure VMs, GKE, ECS), proving how automatic scaling metrics directly fluctuate based on multi-tenant isolation thresholds.
-3. **Data Lifetime Auditing:** Modeled continuous storage tiering (Amazon S3 Glacier vs. Azure Archive) to determine how telemetry drift affects automated enterprise reporting pipelines.
+## 🛠️ Research Methodology & Theoretical Background
+Rather than executing raw programmatic code, this research utilized structured, multi-dimensional analytical models to conduct a rigorous systems evaluation. The methodology built upon existing cloud taxonomies and academic comparative models to assess how the shared responsibility model shifts when organizations transition localized data processing loops into multi-tenant public cloud environments.
+
+## 🧠 Relevance to Trustworthy Systems & Continuous Monitoring
+The core focus of this research centers on architectural auditing and boundary validation. Understanding where structural data vulnerabilities emerge when information moves across multi-provider cloud setups provides the vital system-design knowledge required to create reliable, continuous tracking mechanisms for complex distributed applications.

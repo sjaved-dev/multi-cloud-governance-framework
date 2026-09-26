@@ -8,7 +8,7 @@ This dissertation presents a comprehensive, qualitative comparative analysis of 
 ## 🔬 Core Areas of Investigation
 - **Cloud Delivery Model Taxonomies:** Explored and systematically mapped the architectural boundaries of Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS) environments across all four cloud vendors.
 - **Regional Compliance & Data Sovereignty:** Investigated how cross-border data transfer regulations affect global enterprise operations, analyzing the specific governance structures each provider utilizes to maintain data integrity.
-- **Market Dominance & Infrastructure Distribution:** Mapped regional deployment footprints to identify market imbalances—such as Microsoft Azure's prominent adoption in European enterprise compliance structures versus Alibaba Cloud's strategic density across APAC infrastructure hubs.
+- **Market Dominance & Infrastructure Distribution:** Mapped regional deployment footprints to identify market imbalances such as Microsoft Azure's prominent adoption in European enterprise compliance structures versus Alibaba Cloud's strategic density across APAC infrastructure hubs.
 
 ## 🛠️ Research Methodology & Theoretical Background
 Rather than executing raw programmatic code, this research utilized structured, multi-dimensional analytical models to conduct a rigorous systems evaluation. The methodology built upon existing cloud taxonomies and academic comparative models to assess how the shared responsibility model shifts when organizations transition localized data processing loops into multi-tenant public cloud environments.

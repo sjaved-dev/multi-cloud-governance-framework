@@ -13,5 +13,10 @@ This dissertation presents a comprehensive, qualitative comparative analysis of 
 ## 🛠️ Research Methodology & Theoretical Background
 Rather than executing raw programmatic code, this research utilized structured, multi-dimensional analytical models to conduct a rigorous systems evaluation. The methodology built upon existing cloud taxonomies and academic comparative models to assess how the shared responsibility model shifts when organizations transition localized data processing loops into multi-tenant public cloud environments.
 
+## 📊 Key Findings & Strategic Conclusions
+- **The Sovereignty Friction Point:** The research concluded that despite marketing claims of unified global infrastructure, multi-national organizations face acute operational friction when syncing automated pipelines between Western cloud frameworks and regional laws (such as China's Data Security Law governing Alibaba Cloud nodes).
+- **Asymmetry in Shared Responsibility:** Azure and AWS demonstrate the most comprehensive architectural boundary documentation regarding IaaS/PaaS boundaries, whereas rapid scalability models in mid-tier or specialized deployments frequently introduce blind spots in real-time perimeter monitoring.
+- **Geographic Fragmentation:** Cloud infrastructure is becoming highly localized due to geopolitical data protection rules. Organizations cannot rely on a single vendor's automated validation loop; a secure architecture requires a decoupled, vendor-neutral monitoring layer to audit compliance state changes.
+
 ## 🧠 Relevance to Trustworthy Systems & Continuous Monitoring
 The core focus of this research centers on architectural auditing and boundary validation. Understanding where structural data vulnerabilities emerge when information moves across multi-provider cloud setups provides the vital system-design knowledge required to create reliable, continuous tracking mechanisms for complex distributed applications.

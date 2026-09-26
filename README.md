@@ -3,7 +3,7 @@
 *Awarded Grade: 82/100 (Distinction)*
 
 ### 📋 Executive Summary
-This empirical study executes a complex qualitative and quantitative comparative evaluation of the leading hyperscale environments—Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), and Alibaba Cloud. The core research addresses structural gaps in cross-border data transfer flows, multi-jurisdictional compliance variances, and data sovereignty metrics within Europe (EMEA), APAC, and North American regions.
+This empirical study executes a complex qualitative and quantitative comparative evaluation of the leading hyperscale environments which includes Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), and Alibaba Cloud. The core research addresses structural gaps in cross-border data transfer flows, multi-jurisdictional compliance variances, and data sovereignty metrics within Europe (EMEA), APAC, and North American regions.
 
 ### 🛠️ Methodological Approach
 - **Taxonomy Foundations:** Operationalized the foundational National Institute of Standards and Technology (NIST) cloud taxonomy, cross-referencing IaaS, PaaS, and SaaS delivery matrices.
